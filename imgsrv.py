@@ -1,6 +1,6 @@
 import time
 
-num_images = 3  # Change this based on the actual number of images
+num_images = 3  
 
 while True:
     time.sleep(1)
